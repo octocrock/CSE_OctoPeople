@@ -28,6 +28,7 @@
 - I am learning about Octopus Deploy by helping our customers.
 - I proactively look for opportunities to develop and grow my competencies.
 - I seek support and feedback from more experienced engineers; whilst sharing what I know with new hires through our buddy program.
+- I can focus on reaching a learning goal before moving to the next subject.
 
 <details>
 <summary>Examples</summary>
@@ -46,8 +47,8 @@
 <details>
 <summary>Examples</summary>
 
-- I had requests from two customer success managers to assist a customer and worked with them to find the best way to prioritise the work.
-- I saw a section in the documentation could be improved as well as be re-used in another area to make it more discoverable for customers, so I made the change and raised a PR.
+- I gave feedback to a colleague which led to a good result with a customer.
+- I saw a section in the documentation could be improved and be re-used in another area to make it more discoverable for customers, so I made the change and raised a PR.
 
 </details>
 

@@ -16,30 +16,49 @@
 <details>
 <summary>Examples</summary>
 
-- I provide feedback to other team members, during team discussions or in Slack.
 - I can do a pre-arranged demo of a simple deployment within Octopus to customers.
-- I am working on my own Octopus instance configured for a number of scenarios, and learning how to use Octopus to maintain my setup.
-- I can answer questions from a customer regarding Octopus and CI/CD.  When I don't know the answer, I work with others to find out the answer or pass the question to another team member or team. I work with other team members to work out how much time to spend on the query before handing it over. I can work out where to ask a question.
+- I am working on my own Octopus instance and have it configured to deploy a website and database.
+- I answered a customer question on a call.
+- I was unable to answer a question on a customer call, so sought advice from a teammate.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
+- I have good self-awareness of m skills/competency gaps.
+- I can focus on bitesize learning goals.
+- I act on feedback and coaching from my team.
+
 <details>
 <summary>Examples</summary>
+
+- I spent time sharpening my understanding of multi-tenancy, resulting in a demo project.
+- I was unable to answer a customer question on variable substitution, so I researched variations and experimented on my own Octopus instance.
 
 </details>
 
 ## 🧭 Culture and Leadership
 
+- I show independent initiative and problem solving.
+- I demonstrate a collaborative attitude.
+- I take responsibility for my own work.
+
 <details>
 <summary>Examples</summary>
+
+- I was unsure of why we advise customers to use a configuration detail in high availability, so I sought clarifcation from a senior member of the team.
+- A teammate critiqued a call I was on and suggested a different way to handle a customer query. I changed the way I responded on subsequent calls to similar questions.
 
 </details>
 
 ## 🏆 Customer Success
 
+- I can answer some technical questions to help our customers.
+- I am starting to understand the impact of a good relationship with our customers, how it shapes Octopus and builds revenue.
+
 <details>
 <summary>Examples</summary>
+
+- I attended customer calls with a customer success manager and provide them with links to our documentation to help with a problem they were trying to solve.
 
 </details>

@@ -55,7 +55,8 @@
 - I was the buddy for a new starter, providing assistance and detailed and valuable feedback.
 - I lead customer calls with my customers regularly.
 - I clearly explained the expansion opportunity shown by a specific technical initiative a customer is working on to an Account Manager.
-I presented a feature request from a customer clearly and concisely to colleagues in the Product and Engineering team that persuaded them to implement the change.
+- I presented a feature request from a customer clearly and concisely to colleagues in the Product and Engineering team that persuaded them to implement the change.
+- I saw a support ticket for one of my customers and gave additional context to the support team to help them resolve the problem.
 
 </details>
 
