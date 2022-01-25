@@ -5,7 +5,7 @@
 - **Planning horizon**: Sales quarter
 - **Impact radius**: Account Management/Customer Success team
 - **Evaluation**: Manager
-- **Responsibility and direction needed**: Beginning to mentor junior team members. An active member of cross-team discussions to improve Octopus for customers. Solid understanding of account management, owns technical customer growth and knowledge sharing.
+- **Responsibility and direction needed**: Beginning to mentor junior team members. An active member of cross-team discussions to improve Octopus for customers. 
 
 ## 🦉 Domain expertise
 

@@ -5,7 +5,7 @@
 - **Planning horizon**: Sales quarter
 - **Impact radius**: Account Management/Customer Success teams
 - **Evaluation**: Manager
-- **Responsibility and direction needed**: Weekly supervision needed from manager, team lead, or more senior team members regarding working with customers and building knowledge of Octopus and CI/CD.  Confident to connect with other teams to discuss customer issues and queries. Growing understanding of Customer Success team goals.
+- **Responsibility and direction needed**: Weekly supervision needed from manager, team lead, or more senior team members regarding working with customers and building knowledge of Octopus and CI/CD.  
 
 ## 🦉 Domain expertise
   
