@@ -16,10 +16,10 @@
 <details>
 <summary>Examples</summary>
 
-- I can do a pre-arranged demo of a simple deployment within Octopus to customers.
+- I can do a demo of a simple deployment within Octopus to customers.
 - I am working on my own Octopus instance and have it configured to deploy a website and database.
 - I answered a customer question on a call.
-- I was unable to answer a question on a customer call, so sought advice from a teammate.
+- I was unable to answer a question on a customer call, so sought advice from a teammate and followed up with the customer.
 
 </details>
 
@@ -47,7 +47,7 @@
 <summary>Examples</summary>
 
 - I was unsure of why we advise customers to use a configuration detail in high availability, so I sought clarifcation from a senior member of the team.
-- A teammate critiqued a call I was on and suggested a different way to handle a customer query. I changed the way I responded on subsequent calls to similar questions.
+- A teammate critiqued a call I was on and suggested a different way to handle a customer query. I changed the way I responded on subsequent calls.
 
 </details>
 
