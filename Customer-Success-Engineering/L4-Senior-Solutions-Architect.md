@@ -5,7 +5,7 @@
 - **Planning horizon**: Current and next Sales quarter
 - **Impact radius**: Account Management/Customer Success team
 - **Evaluation**: Manager
-- **Responsibility and direction needed**: ❓ Respected mentor, regularly sharing knowlege with junior members of the team as well as others in the wider Customer Success team.  Collaborates with the leadership group to continuously work towards team goals.  Collaborates cross-team to provide product customer feedback digests and strategic input.
+- **Responsibility and direction needed**: Respected mentor, regularly sharing knowlege with junior members of the team as well as others in the wider Customer Success team.  Collaborates with the leadership group to continuously work towards team goals.  Collaborates cross-team to provide product customer feedback digests and strategic input.
 
 ## 🦉 Domain expertise
 
@@ -16,14 +16,13 @@
 - I have spent signifcant effort to become an SME in at least one area that I am passionate about.
 
 <details>
-<summary>❓❓Examples</summary>
+<summary>Examples</summary>
 
 - I can answer and deeply understand complex questions regarding Octopus and CI/CD. I know how much time to spend researching a question before handing it over to another team.
 - I work autonomously to investigate a problem.
 - I have Octopus instances configured for several scenarios and use Octopus to maintain my setup.
 - I am the "go-to" person on the team for multi-tenancy in Octopus.
 - I am the team SME on Kubernetes.
-- I perform instance reviews for customers, identifying ways for customers to get the best from Octopus and working with them to improve processes.
 - I accepted that the first and most ideal solution for the customer was not possible given the technical and business complexities. I worked with the customer to find the best solution given the wider information.
 
 </details>

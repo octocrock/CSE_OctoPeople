@@ -44,6 +44,7 @@
 ## 🧭 Culture and Leadership
 
 - I collaborate on team initiatives.
+- I am a customer advocate within Octopus.
 - I am able to clearly define customer core problems and am able to articulate them to our engineers and non-technical colleagues.
 - I continuously maintain and improve the quality, productivity, presentation, and delivery of work.
 - I am willing to take on the necessary and unglamorous work needed to get things done.
